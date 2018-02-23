@@ -45,3 +45,4 @@ A user can follow https://github.com/fabric8-analytics/fabric8-analytics-server[
 $ curl -XPOST "manifest[]=@<path_to_manifest_file>" "http://127.0.0.1:32000/api/v1/stack-analyses"
 ----
 
+
